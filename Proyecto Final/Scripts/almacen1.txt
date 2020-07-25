@@ -1,0 +1,13 @@
+Este es un documento con extension txt que contiene la distribucion del almacen 1 y su capacidad en toneladas aproximada de mercancia que puede almacenar.
+
+Almacen: 01
+
+Capacidad aproximada: 30 000 ton.
+
+Distribución:
+
+* Antibioticos: 6 000 ton
+* Antiinflamatorios: 2 000 ton
+* Antipireticos: 5 000 ton
+* Antivirales: 6 000 ton
+* Vitaminas: 10 000 ton

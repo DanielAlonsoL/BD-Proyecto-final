@@ -1,0 +1,13 @@
+Este es un documento con extension txt que contiene la distribucion del almacen 3 y su capacidad en toneladas aproximada de mercancia que puede almacenar.
+
+Almacen: 03
+
+Capacidad aproximada: 70 000 ton.
+
+Distribución:
+
+* Antibioticos: 15 000 ton
+* Antiinflamatorios: 15 000 ton
+* Antipireticos: 10 000 ton
+* Antivirales: 8 000 ton
+* Vitaminas: 22 000 ton
